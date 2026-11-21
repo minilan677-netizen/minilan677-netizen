@@ -1,6 +1,6 @@
 # Shakibul Hasan Siyam
 
-Software engineer from Bangladesh. I fix bugs, write tests, and contribute to open source.
+Freelance software engineer from Bangladesh. I fix bugs, write tests, and contribute to open source.
 
 ## What I work on
 
