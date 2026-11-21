@@ -1,10 +1,9 @@
 # Shakibul Hasan Siyam
 
-Founder at [CARDXC](https://cardxc.online). I build fintech products and contribute to open source.
+Software engineer from Bangladesh. I fix bugs, write tests, and contribute to open source.
 
 ## What I work on
 
-- [CARDXC](https://cardxc.online) — a fintech company I founded in Bangladesh
 - Open-source contributions to cloud tooling, .NET, and web libraries
 
 ## Tech stack
@@ -22,13 +21,10 @@ Founder at [CARDXC](https://cardxc.online). I build fintech products and contrib
 - [aws/aws-sam-cli#9459](https://github.com/aws/aws-sam-cli/pull/9459) — corrected the misspelled `parameters` section in samconfig examples
 - [reactphp/http#559](https://github.com/reactphp/http/pull/559) — typo fix in the README
 - [TestableIO/System.IO.Abstractions#1603](https://github.com/TestableIO/System.IO.Abstractions/pull/1603) — typo fix in CONTRIBUTING
+- [bloomberg/causal-ts#132](https://github.com/bloomberg/causal-ts/pull/132) — fixed the fisherz statistic when conditioning variables have a nonzero mean, with regression tests
 
 ## GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minilan677-netizen&show_icons=true&hide_border=true&theme=transparent)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minilan677-netizen&layout=compact&hide_border=true&theme=transparent)
-
-## Contact
-
-[cardxc.online](https://cardxc.online)
